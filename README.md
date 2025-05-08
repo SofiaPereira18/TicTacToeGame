@@ -1,57 +1,58 @@
-# Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 
-[PT]
-Este é um simples jogo da velha (Tic Tac Toe) feito em HTML, CSS e JavaScript. Os jogadores alternam entre "X" e "O" até que alguém ganhe ou ocorra um empate.
+Este é um projeto simples de Jogo da Velha (Tic Tac Toe) feito com HTML, CSS e JavaScript.  
+Abaixo encontras a explicação em **Português 🇵🇹** e **English 🇬🇧**.
 
-## 📁 Estrutura do Projeto
+---
 
+## PT Português
+
+### 📁 Estrutura do Projeto
 - `index.html` – Estrutura principal da página.
 - `styles.css` – Estilos para o tabuleiro e layout geral.
 - `script.js` – Lógica do jogo (turnos, vitórias, empates).
 
-## 🚀 Como usar
-
+### 🚀 Como Jogar
 1. Clona ou faz download deste repositório.
-2. Abre o ficheiro `index.html` num navegador.
+2. Abre o ficheiro `index.html` no navegador.
 3. Começa a jogar clicando nas células!
 
-## ✅ Funcionalidades
-
-- Alternância entre X e O.
+### ✅ Funcionalidades
+- Alternância entre "X" e "O".
 - Verificação automática de vitória.
 - Interface simples e responsiva.
 
-## 👩‍💻 Autor
+### ✨ A Melhorar
+- Botão de reinício.
+- Contador de pontuação.
+- Jogador vs computador.
 
+### 👩‍💻 Autor
 Sofia Pereira — 2025
 
-[EN]
-This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Two players take turns playing as "X" and "O" until someone wins or the game ends in a draw.
+---
 
-## 📁 Project Structure
+## EN English
 
-- `index.html` – Main page layout.
-- `styles.css` – Styling for the board and layout.
-- `script.js` – Game logic (turns, win detection, draw).
+### 📁 Project Structure
+- `index.html` – Main HTML structure.
+- `styles.css` – Styling for layout and game board.
+- `script.js` – Game logic (turns, win check, draw).
 
-## 🚀 How to Use
-
+### 🚀 How to Play
 1. Clone or download this repository.
-2. Open `index.html` in your browser.
+2. Open the `index.html` file in your browser.
 3. Start playing by clicking the cells!
 
-## ✅ Features
-
-- X and O turn switching.
+### ✅ Features
+- Turn switching between "X" and "O".
 - Automatic win detection.
-- Simple, responsive interface.
+- Clean and responsive layout.
 
-## ✨ To Improve
-
+### ✨ Future Improvements
 - Restart button.
 - Score tracking.
 - Player vs computer mode.
 
-## 👩‍💻 Author
-
+### 👩‍💻 Author
 Sofia Pereira — 2025
