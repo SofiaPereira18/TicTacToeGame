@@ -13,9 +13,7 @@ Abaixo encontras a explicação em **Português 🇵🇹** e **English 🇬🇧*
 - `script.js` – Lógica do jogo (turnos, vitórias, empates).
 
 ### 🚀 Como Jogar
-1. Clona ou faz download deste repositório.
-2. Abre o ficheiro `index.html` no navegador.
-3. Começa a jogar clicando nas células!
+1. Joga [aqui](https://tic-tac-toe-game-brown-xi.vercel.app/)!
 
 ### ✅ Funcionalidades
 - Alternância entre "X" e "O".
@@ -40,9 +38,7 @@ Sofia Pereira — 2025
 - `script.js` – Game logic (turns, win check, draw).
 
 ### 🚀 How to Play
-1. Clone or download this repository.
-2. Open the `index.html` file in your browser.
-3. Start playing by clicking the cells!
+1. Play [here](https://tic-tac-toe-game-brown-xi.vercel.app/)!
 
 ### ✅ Features
 - Turn switching between "X" and "O".
